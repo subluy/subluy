@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:22D3EE&height=210&section=header&text=Hi%2C%20I%27m%20subluy&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Learn%20deeply.%20Build%20carefully.%20Keep%20exploring.&descAlignY=57&animation=fadeIn" alt="Hi, I'm subluy" />
 
-  <p><strong>热爱学习，也喜欢把复杂问题做成清晰、可用的工具。</strong></p>
+  <p><strong>Curious by nature, deliberate in practice, and always building.</strong></p>
   <p>Exploring algorithms, mathematical modeling, embedded systems, and AI-assisted learning.</p>
 
   <a href="https://github.com/subluy?tab=followers"><img src="https://img.shields.io/github/followers/subluy?style=for-the-badge&logo=github&label=Followers&color=2563EB" alt="GitHub followers" /></a>
@@ -10,19 +10,19 @@
 
 ## 👋 About me
 
-- 🧠 正在深入学习 **算法竞赛、数学建模与工程实践**
-- ⚙️ 喜欢用 **C / C++ / Python** 把想法变成可以运行、验证的作品
-- 📚 关注知识整理、交互式学习和 AI 辅助学习工具
-- 🌱 保持好奇，持续记录，认真打磨每一个小项目
+- 🧠 Diving deeper into **competitive programming, mathematical modeling, and hands-on engineering**
+- ⚙️ Using **C / C++ / Python** to turn ideas into working, testable projects
+- 📚 Interested in knowledge management, interactive education, and AI-assisted learning tools
+- 🌱 Staying curious, documenting progress, and refining one project at a time
 
 ## 🧭 Current focus
 
-| 方向 | 关注内容 |
+| Area | What I'm exploring |
 | --- | --- |
-| 🏆 Algorithm | 数据结构、竞赛算法、独立解题与复盘 |
-| 📊 Modeling | 数学建模、数据分析、模型验证与论文表达 |
-| 🔧 Embedded | C/C++、单片机控制、传感器与真实系统调试 |
-| ✨ Learning tools | 知识库、交互式讲解、AI 辅助学习工作流 |
+| 🏆 Algorithm | Data structures, competitive programming, independent problem-solving, and post-contest review |
+| 📊 Modeling | Mathematical modeling, data analysis, model validation, and technical writing |
+| 🔧 Embedded | C/C++, microcontroller control, sensors, and real-world system debugging |
+| ✨ Learning tools | Knowledge bases, interactive explanations, and AI-assisted learning workflows |
 
 ## 🚀 Featured projects
 
@@ -30,12 +30,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧑‍🏫 <a href="https://github.com/subluy/tutor-skill">tutor-skill</a></h3>
-      <p>用通俗语言讲解物理、高数和 C 语言题目，并通过 HTML 交互动画帮助理解。</p>
+      <p>Plain-language explanations of physics, calculus, and C programming problems, supported by interactive HTML animations.</p>
       <p><code>HTML</code> <code>Interactive Learning</code> <code>AI Skill</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📚 Learning collections</h3>
-      <p>持续整理和探索感兴趣的开源学习资源。</p>
+      <p>A growing collection of open-source resources that support the topics I am learning.</p>
       <p>
         <a href="https://github.com/subluy/MathModel">Mathematical Modeling</a> ·
         <a href="https://github.com/subluy/ACM-ICPC-Preparation">ACM / ICPC</a> ·
