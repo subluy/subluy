@@ -12,7 +12,6 @@
 
 - 🧠 Diving deeper into **competitive programming, mathematical modeling, and hands-on engineering**
 - ⚙️ Using **C / C++ / Python** to turn ideas into working, testable projects
-- 📚 Interested in knowledge management, interactive education, and AI-assisted learning tools
 - 🌱 Staying curious, documenting progress, and refining one project at a time
 
 ## 🧭 Current focus
@@ -22,7 +21,6 @@
 | 🏆 Algorithm | Data structures, competitive programming, independent problem-solving, and post-contest review |
 | 📊 Modeling | Mathematical modeling, data analysis, model validation, and technical writing |
 | 🔧 Embedded | C/C++, microcontroller control, sensors, and real-world system debugging |
-| ✨ Learning tools | Knowledge bases, interactive explanations, and AI-assisted learning workflows |
 
 ## 🚀 Featured projects
 
